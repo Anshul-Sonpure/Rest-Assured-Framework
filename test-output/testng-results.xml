@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-03T19:11:22 IST" name="Suite" finished-at="2023-05-03T19:12:54 IST" duration-ms="91504">
+    <groups>
+    </groups>
+    <test started-at="2023-05-03T19:11:22 IST" name="Test" finished-at="2023-05-03T19:12:54 IST" duration-ms="91504">
+      <class name="testEndPoints.GoRestEndPointTest">
+        <test-method signature="testPostRequest()[pri:1, instance:testEndPoints.GoRestEndPointTest@f9879ac]" started-at="2023-05-03T19:11:22 IST" name="testPostRequest" finished-at="2023-05-03T19:11:48 IST" duration-ms="25565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostRequest -->
+        <test-method signature="testGetRequest()[pri:2, instance:testEndPoints.GoRestEndPointTest@f9879ac]" started-at="2023-05-03T19:11:48 IST" name="testGetRequest" finished-at="2023-05-03T19:12:11 IST" duration-ms="22848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRequest -->
+        <test-method signature="testPatchRequest()[pri:3, instance:testEndPoints.GoRestEndPointTest@f9879ac]" started-at="2023-05-03T19:12:11 IST" name="testPatchRequest" finished-at="2023-05-03T19:12:32 IST" duration-ms="21523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPatchRequest -->
+        <test-method signature="testDeleteRequest()[pri:4, instance:testEndPoints.GoRestEndPointTest@f9879ac]" started-at="2023-05-03T19:12:32 IST" name="testDeleteRequest" finished-at="2023-05-03T19:12:54 IST" duration-ms="21506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteRequest -->
+      </class> <!-- testEndPoints.GoRestEndPointTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

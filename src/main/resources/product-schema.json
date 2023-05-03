@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "cost": {
+      "type": "string"
+    },
+    "quantity": {
+      "type": "string"
+    },
+    "locationId": {
+      "type": "string"
+    },
+    "dealerId": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "cost",
+    "quantity",
+    "locationId",
+    "dealerId"
+  ]
+}
